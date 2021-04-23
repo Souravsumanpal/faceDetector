@@ -1,2 +1,2 @@
 # faceDetector
-Detect Face
+Detect Faces
